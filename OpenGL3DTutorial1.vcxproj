@@ -116,7 +116,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="Src\Scene.cpp" />
-    <ClCompile Include="Src\Source.cpp" />
+    <ClCompile Include="Src\Main.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="Src\Scene.h" />
